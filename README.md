@@ -9,3 +9,6 @@ When the users applies for the Loan, they have to go through the 6 different sta
 # 2. Funnel Analysis
 The dataset used in this workbook is stages.csv which I have created in workbook 'Exploration and Insights'
 This workbook explains the applicants travel through the loan application process, the bottleneck stage in the application process and producing a Funnel Chart based on the Conversion rate through out the stages.
+
+
+![alt text](https://plot.ly/~mj.nigam28/60.png)
